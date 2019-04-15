@@ -63,6 +63,4 @@ public class MultiplicacionPorSumas {
       contador=contador+1;  
     }
     
-}
-}
 
